@@ -1,4 +1,4 @@
-package com.group21;
+package com.group13;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -10,12 +10,12 @@ import java.io.IOException;
 import java.time.LocalDate;
 import java.util.*;
 
-import com.group21.database.DiemDB;
-import com.group21.database.MonHocDB;
-import com.group21.database.SinhVienDB;
-import com.group21.model.Diem;
-import com.group21.model.MonHoc;
-import com.group21.model.SinhVien;
+import com.group13.database.DiemDB;
+import com.group13.database.MonHocDB;
+import com.group13.database.SinhVienDB;
+import com.group13.model.Diem;
+import com.group13.model.MonHoc;
+import com.group13.model.SinhVien;
 
 
 public class App extends Application {

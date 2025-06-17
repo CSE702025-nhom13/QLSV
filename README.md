@@ -19,6 +19,7 @@
 ![370011525-f6100858-ce12-4747-8de8-36c06c2b4269](https://github.com/user-attachments/assets/911052ee-9009-4aaa-a338-dc194bfff2d1)
 * UML Sequence Diagram Nhập/Cập nhật thông tin sinh viên
 <img width="767" alt="443518065-1636ca2c-7ce8-405d-b820-11be182a29a6 (1)" src="https://github.com/user-attachments/assets/a6de03f2-879c-41c2-b868-95199c883e65" />
+
 * UML Cập nhật thông tin môn học
 
 * UML Tra cứu

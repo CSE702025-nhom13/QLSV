@@ -21,7 +21,7 @@
 <img width="767" alt="443518065-1636ca2c-7ce8-405d-b820-11be182a29a6 (1)" src="https://github.com/user-attachments/assets/a6de03f2-879c-41c2-b868-95199c883e65" />
 * UML Cập nhật thông tin môn học
 <img width="766" alt="370125537-2e3cf363-e261-45b1-96cf-21ddfd5f9877" src="https://github.com/user-attachments/assets/7203fdb7-99e6-4e28-b9de-5cdcafc3a78a" />
-* UML sequence diagram Tra Cứu
+* UML Tra cứu
 <img width="767" alt="443518065-1636ca2c-7ce8-405d-b820-11be182a29a6 (1)" src="https://github.com/user-attachments/assets/a8b3c4f2-4992-4f5f-b48b-3d8b94b49949" />
 
 

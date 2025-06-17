@@ -21,8 +21,10 @@
 <img width="767" alt="443518065-1636ca2c-7ce8-405d-b820-11be182a29a6 (1)" src="https://github.com/user-attachments/assets/a6de03f2-879c-41c2-b868-95199c883e65" />
 
 * UML Cập nhật thông tin môn học
+<img width="766" alt="gr13" src="https://github.com/user-attachments/assets/2816e51c-bf0e-4a27-b2be-6536f9113f5b" />
 
 * UML Tra cứu
+<img width="767" alt="tracuu" src="https://github.com/user-attachments/assets/c691f8e9-8873-48a9-88ed-3ab2f0c2a658" />
 
 
 

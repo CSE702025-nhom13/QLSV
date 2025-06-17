@@ -7,7 +7,7 @@
 ## Giới thiệu
 #### Dự án quản lý sinh viên giúp cho việc kiểm soát dữ liệu sinh viên 1 cách hiệu quả và nhanh chóng.
 ## Yêu cầu:
-#### Quản lý thông tin sinh viên
+*  Quản lý thông tin sinh viên
 #### Thêm, sửa, xóa sinh viên
 #### Liệt kê danh sách sinh viên
 #### Nhập Môn học

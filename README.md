@@ -1,11 +1,11 @@
 # Nhóm 13
-## Thành viên
+## 🙍Thành viên:
 ### 1. Nguyễn Danh Quang MSV: 23010230
 ### 2. Nguyễn Tiến Đức MSV: 2301008
 ### 3. Vũ Minh Nguyệt MSV: 23010129
 # Nội dung: Xây dựng ứng dụng quản lý sinh viên
-## Giới thiệu
-#### Dự án quản lý sinh viên giúp cho việc kiểm soát dữ liệu sinh viên 1 cách hiệu quả và nhanh chóng.
+## 📒Giới thiệu:
+* Dự án xây dựng ứng dụng quản lý sinh viên nhằm hỗ trợ việc lưu trữ, theo dõi và tra cứu thông tin sinh viên một cách hiệu quả. Ứng dụng cung cấp các chức năng như quản lý điểm, môn học, lớp học và tra cứu nhanh chóng. Giải pháp này giúp nâng cao hiệu quả quản lý trong các trường học và cơ sở đào tạo.
 ## 🎯Yêu cầu :
 *  Quản lý thông tin sinh viên
 *  Thêm, sửa, xóa sinh viên

@@ -3,7 +3,7 @@
 | Thành viên             | MSV        | Vai trò      | Công việc chính                                                                 |
 |------------------------|------------|--------------|----------------------------------------------------------------------------------|
 | Nguyễn Danh Quang      | 23010230   | Trưởng nhóm | Phụ trách lập trình hệ thống, sửa lỗi, thiết kế sơ đồ, kiểm duyệt lại báo cáo   |
-| Nguyễn Tiến Đức        | 23456789   | Thành viên   | Lập trình hệ thống, viết báo cáo, vẽ sơ đồ và tổng hợp tài liệu                 |
+| Nguyễn Tiến Đức        | 23010084   | Thành viên   | Lập trình hệ thống, viết báo cáo, vẽ sơ đồ và tổng hợp tài liệu                 |
 | Vũ Minh Nguyệt         | 23010129   | Thành viên   | Thiết kế giao diện, làm PowerPoint, viết báo cáo, thuyết trình                  |
 
 # Nội dung: Xây dựng ứng dụng quản lý sinh viên

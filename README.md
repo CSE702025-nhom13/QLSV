@@ -1,8 +1,11 @@
 # Nhóm 13
 ## 🙍Thành viên:
-### 1. Nguyễn Danh Quang MSV: 23010230
-### 2. Nguyễn Tiến Đức MSV: 2301008
-### 3. Vũ Minh Nguyệt MSV: 23010129
+| Thành viên             | Vai trò      | Công việc chính                                                                 |
+|------------------------|--------------|----------------------------------------------------------------------------------|
+| Hoàng Minh Quân        | Trưởng nhóm | Phụ trách toàn bộ phần lập trình hệ thống, bao gồm cả frontend, backend và cơ sở dữ liệu |
+| Nguyễn Thành Long      | Thành viên  | Viết toàn bộ báo cáo, thiết kế sơ đồ và tổng hợp tài liệu                       |
+| Nguyễn Thị Thương      | Thành viên  | Thiết kế giao diện người dùng trên Figma, xây dựng wireframe, UI flow          |
+| Trần Thị Thu Hường     | Thành viên  | Thiết kế giao diện người dùng trên Figma, xây dựng wireframe, UI flow          |
 # Nội dung: Xây dựng ứng dụng quản lý sinh viên
 ## 📒Giới thiệu:
 * Dự án xây dựng ứng dụng quản lý sinh viên nhằm hỗ trợ việc lưu trữ, theo dõi và tra cứu thông tin sinh viên một cách hiệu quả. Ứng dụng cung cấp các chức năng như quản lý điểm, môn học, lớp học và tra cứu nhanh chóng. Giải pháp này giúp nâng cao hiệu quả quản lý trong các trường học và cơ sở đào tạo.

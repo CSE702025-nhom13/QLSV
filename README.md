@@ -3,7 +3,7 @@
 | Thành viên             | Vai trò      | Công việc chính                                                                 |
 |------------------------|--------------|----------------------------------------------------------------------------------|
 | Nguyễn Danh Quang       | Trưởng nhóm | Phụ trách lập trình hệ thống, sửa lỗi, thiết kế sơ đồ, kiểm duyệt lại báo cáo |
-| Nguyễn Tiến Đức      | Thành viên  | Viết báo cáo, vẽ sơ đồ và tổng hợp tài liệu                       |
+| Nguyễn Tiến Đức      | Thành viên  | Lập trình hệ thống, viết báo cáo, vẽ sơ đồ và tổng hợp tài liệu                       |
 | Vũ Minh Nguyệt      | Thành viên  | Thiết kế giao diện, làm Powerpoint, viết báo cáo, thuyết trình          |
 # Nội dung: Xây dựng ứng dụng quản lý sinh viên
 ## 📒Giới thiệu:
